@@ -3,16 +3,16 @@
 ## _Languages used:_
 ______
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=black" />
-______
+
 * <img src="https://img.shields.io/badge/C++-DEB887?style=for-the-badge&logo=c++&logoColor=black" />
-______
+
 * <img src="https://img.shields.io/badge/C-DEB887?style=for-the-badge&logo=&logoColor=black" />
 
 
-*  _C#_
+*  <img src="https://img.shields.io/badge/C Sharp-DEB887?style=for-the-badge&logo=c sharp&logoColor=black" />
 
 ## _Links to contact me_
-______
+_____
 [_Link to VK_](https://vk.com/naomi_des04)
 
 [_Link for telegram_](https://t.me/qmmmtt)
