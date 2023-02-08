@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**AreHumphrey/AreHumphrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# _Lut Dina, 18 years old, 1st year student of MCS FEFU, Vladivostok, Russia._
+## _Languages used:_
+#
 
-Here are some ideas to get you started:
+* _C/C++_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*  _Python_
+
+
+
+*  _C#_
+
+## _Links to contact me_
+#
+[_Link to VK_](https://vk.com/naomi_des04)
+
+[_Link for telegram_](https://t.me/qmmmtt)
