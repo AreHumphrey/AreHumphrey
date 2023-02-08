@@ -2,7 +2,7 @@
 # _Lut Dina, 18 years old, 1st year student of MCS FEFU, Vladivostok, Russia._
 ## _Languages used:_
 #
-<img src ="https://img.shields.io/Python-7FFFD4?style=for-the-badge&logo=python&logoColor=brown" />
+<img src ="https://img.shields.io/Python-7FFFD4?style=for-the-badge&logo=python&logoColor=black" />
 * _C/C++_
 
 
