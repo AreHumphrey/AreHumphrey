@@ -11,7 +11,7 @@
 
 *  <img src="https://img.shields.io/badge/-DEB887?style=for-the-badge&logo=c sharp&logoColor=black" />
 
-## _Links to contact me_
+## _Links to contact me:_
 #
 [_Link to VK_](https://vk.com/naomi_des04)
 
