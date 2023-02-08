@@ -1,4 +1,4 @@
-
+  <img src="https://img.shields.io/badge/⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯-DEB887?style=for-the-badge&logo=⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ sharp&logoColor=black" />
 # _Lut Dina, 18 years old, 1st year student of MCS FEFU, Vladivostok, Russia._
 ## _Languages used:_
 #
