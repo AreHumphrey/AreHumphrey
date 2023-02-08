@@ -6,7 +6,7 @@ ______
 ______
 * <img src="https://img.shields.io/badge/C++-DEB887?style=for-the-badge&logo=c++&logoColor=black" />
 ______
-* * <img src="https://img.shields.io/badge/C-DEB887?style=for-the-badge&logo=c&logoColor=black" />
+* <img src="https://img.shields.io/badge/C-DEB887?style=for-the-badge&logo=&logoColor=black" />
 
 
 *  _C#_
