@@ -3,7 +3,7 @@
 ## _Languages used:_
 #
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=black" />
-* _C/C++_
+______
 * <img src="https://img.shields.io/badge/C++-DEB887?style=for-the-badge&logo=c++&logoColor=black" />
 *  _Python_
 
