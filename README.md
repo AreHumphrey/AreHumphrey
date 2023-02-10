@@ -3,12 +3,11 @@
 #
 ###  <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=black" />
 
-### <img src="https://img.shields.io/badge/C++-DEB887?style=for-the-badge&logo=c++&logoColor=black" />
+## <img src="https://img.shields.io/badge/C++-DEB887?style=for-the-badge&logo=c++&logoColor=black" />
 
-### <img src="https://img.shields.io/badge/C-DEB887?style=for-the-badge&logo=&logoColor=black" />
+## <img src="https://img.shields.io/badge/C-DEB887?style=for-the-badge&logo=&logoColor=black" />
 
-
-*  <img src="https://img.shields.io/badge/-DEB887?style=for-the-badge&logo=c sharp&logoColor=black" />
+## <img src="https://img.shields.io/badge/-DEB887?style=for-the-badge&logo=c sharp&logoColor=black" />
 
 ## _Links to contact me_
 
