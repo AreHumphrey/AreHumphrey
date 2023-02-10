@@ -10,10 +10,14 @@
 
 *  <img src="https://img.shields.io/badge/-DEB887?style=for-the-badge&logo=c sharp&logoColor=black" />
 
-## _Links to contact me:_
-#
-[_Link to VK_](https://vk.com/naomi_des04)
+# _Links to contact me_
 
-[_Link for telegram_](https://t.me/qmmmtt)
+## [_Link to VK_](https://vk.com/naomi_des04)
+
+## [_Link for telegram_](https://t.me/qmmmtt)
+
+# _Stats_
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AreHumphrey&layout=compact&theme=vision-friendly-dark&bg_color=CDB38B&border_color=8B795E&title_color=442300&text_color=442300)](https://github.com/anuraghazra/github-readme-stats)
 #
 
