@@ -1,4 +1,5 @@
 
+
 # _Lut Dina, 18 years old, 1st year student of MCS FEFU, Vladivostok, Russia._
 ## _Languages used:_
 #
@@ -21,7 +22,6 @@
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AreHumphrey&show_icons=true&line_height=30&count_private=true&title_color=442300&text_color=442300&icon_color=8B4513&bg_color=CDB38B" alt="GitHub Stats" />
 </a>
-#   
 
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreHumphrey&hide=html,css&title_color=442300&text_color=442300&icon_color=CDB38B&bg_color=CDB38B" />
