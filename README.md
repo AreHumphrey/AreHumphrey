@@ -18,5 +18,5 @@
 ## _Stats_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AreHumphrey&layout=compact&theme=vision-friendly-dark&bg_color=CDB38B&border_color=8B795E&title_color=442300&text_color=442300)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AreHumphrey)](https://github.com/anuraghazra/github-readme-stats)
+
 
