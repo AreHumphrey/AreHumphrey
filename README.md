@@ -3,7 +3,7 @@
 ## _Languages used:_
 #
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=black" />
-* <img src="https://img.shields.io/badge/python-DEB887%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+* <img src="https://img.shields.io/badge/python-DEB887%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=DEB887"/>
 * <img src="https://img.shields.io/badge/C++-DEB887?style=for-the-badge&logo=c++&logoColor=black" />
 * <img src="https://img.shields.io/badge/C-DEB887?style=for-the-badge&logo=&logoColor=black&line." />
 * <img src="https://img.shields.io/badge/Matlab-DEB887?style=for-the-badge&logo=&logoColor=black" />
