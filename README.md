@@ -4,11 +4,11 @@
 #
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=white" />
 
-* <img src="https://img.shields.io/badge/Flutter-DEB887.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-* <img src="https://img.shields.io/badge/c-DEB887.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-* <img src="https://img.shields.io/badge/c++%20-DEB887.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-* <img src="https://img.shields.io/badge/c%20-DEB887.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-* <img src="https://img.shields.io/badge/dart-DEB887.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Flutter-DEB887.svg?&style=for-the-badge&logo=Flutter&logoColor=442300" />
+* <img src="https://img.shields.io/badge/c-DEB887.svg?&style=for-the-badge&logo=c-sharp&logoColor=442300"/>
+* <img src="https://img.shields.io/badge/c++%20-DEB887.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=442300"/>
+* <img src="https://img.shields.io/badge/c%20-DEB887.svg?&style=for-the-badge&logo=c&logoColor=442300"/>
+* <img src="https://img.shields.io/badge/dart-DEB887.svg?&style=for-the-badge&logo=dart&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/Matlab-DEB887?style=for-the-badge&logo=&logoColor=black" />
 
 #
