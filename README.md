@@ -10,7 +10,7 @@
 * <img src="https://img.shields.io/badge/c%20-DEB887.svg?&style=for-the-badge&logo=c&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/dart-DEB887.svg?&style=for-the-badge&logo=dart&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/Matlab-DEB887?style=for-the-badge&logo=&logoColor=442300" />
-* <img src="https://img.shields.io/badge/markdown--DEB887.svg?&style=for-the-badge&logo=markdown&logoColor=442300"/>
+* <img src="https://img.shields.io/badge/markdown-DEB887.svg?&style=for-the-badge&logo=markdown&logoColor=442300"/>
 
 ## _Links to contact me:_
 
