@@ -3,7 +3,8 @@
 ## _Languages used:_
 
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=442300" />
-
+* <img src="https://img.shields.io/badge/React-DEB887.svg?&style=for-the-badge&logo=React&logoColor=442300" />
+* <img src="https://img.shields.io/badge/CSS-DEB887.svg?&style=for-the-badge&logo=CSS&logoColor=442300" />
 * <img src="https://img.shields.io/badge/Flutter-DEB887.svg?&style=for-the-badge&logo=Flutter&logoColor=442300" />
 * <img src="https://img.shields.io/badge/c-DEB887.svg?&style=for-the-badge&logo=c-sharp&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/c++%20-DEB887.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=442300"/>
