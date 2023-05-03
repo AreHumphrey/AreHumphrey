@@ -4,13 +4,13 @@
 
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=442300" />
 * <img src="https://img.shields.io/badge/React-DEB887.svg?&style=for-the-badge&logo=React&logoColor=442300" />
-* <img src="https://img.shields.io/badge/Css3-DEB887.svg?&style=for-the-badge&logo=CSS&logoColor=442300" />
+* <img src="https://img.shields.io/badge/css-DEB887.svg?&style=for-the-badge&logo=css3&logoColor=442300" />
 * <img src="https://img.shields.io/badge/Flutter-DEB887.svg?&style=for-the-badge&logo=Flutter&logoColor=442300" />
 * <img src="https://img.shields.io/badge/c-DEB887.svg?&style=for-the-badge&logo=c-sharp&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/c++%20-DEB887.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/c%20-DEB887.svg?&style=for-the-badge&logo=c&logoColor=442300"/>
 * <img src="https://img.shields.io/badge/dart-DEB887.svg?&style=for-the-badge&logo=dart&logoColor=442300"/>
-* <img src="https://img.shields.io/badge/Matlab-DEB887?style=for-the-badge&logo=&logoColor=442300" />
+* <img src="https://img.shields.io/badge/Matlab-DEB887?style=for-the-badge&logo=matlab&logoColor=442300" />
 * <img src="https://img.shields.io/badge/markdown-DEB887.svg?&style=for-the-badge&logo=markdown&logoColor=442300"/>
 
 ## _Links to contact me:_
