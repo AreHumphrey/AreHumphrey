@@ -1,7 +1,7 @@
 
 # _Lut Dina, 19 years old, 2st year student of MCS FEFU, Vladivostok, Russia._
-## [_My Portfolio_]([https://vk.com/naomi_des04](https://arehumphrey.github.io/My_portfolio))
-## _Languages used:_
+# [_My Portfolio_](https://arehumphrey.github.io/My_portfolio)
+### _Languages used:_
 
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=442300" />
 * <img src="https://img.shields.io/badge/React-DEB887.svg?&style=for-the-badge&logo=React&logoColor=442300" />
