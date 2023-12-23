@@ -25,7 +25,7 @@
 </a>
 
 # <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreHumphrey&hide=html,css,cmake&title_color=442300&text_color=442300&icon_color=CDB38B&bg_color=CDB38B" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreHumphrey&hide=html,css,cmake, renpy&title_color=442300&text_color=442300&icon_color=CDB38B&bg_color=CDB38B" />
 </a>
   
  # [![GitHub Streak](https://streak-stats.demolab.com?user=AreHumphrey&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=442300&background=CDB38B&border=CDB38B&stroke=8B4513&ring=8B4513&fire=8B4513&currStreakNum=442300&sideNums=442300&currStreakLabel=442300)](https://git.io/streak-stats)
