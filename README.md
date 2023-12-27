@@ -1,5 +1,5 @@
 
-# _Lut Dina, 19 years old, 2st year student of MCS FEFU, Vladivostok, Russia._
+# _Vinnitckaya Dina, 19 years old, 2st year student of MCS FEFU, Vladivostok, Russia._
 # [_My Portfolio_](https://arehumphrey.github.io/My_portfolio)
 ### _Languages used:_
 
