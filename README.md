@@ -1,6 +1,10 @@
 
 # _Vinnitckaya Dina, 19 years old, 2st year student of MCS FEFU, Vladivostok, Russia._
 # [_My Portfolio_](https://arehumphrey.github.io/My_portfolio)
+
+
+![Calm Nature Gif](https://media1.tenor.com/m/Efk3-wBB3wQAAAAC/pixel-art.gif)
+
 ### _Languages used:_
 
 * <img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=442300" />
