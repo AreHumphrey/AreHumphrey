@@ -3,7 +3,7 @@
 # [_My Portfolio_](https://arehumphrey.github.io/My_portfolio)
 
 
-![Calm Nature Gif](https://media1.tenor.com/m/Efk3-wBB3wQAAAAC/pixel-art.gif)
+![Calm Nature Gif](https://media1.tenor.com/m/RI79oczSydEAAAAC/trees-can.gif)
 
 ## _Links to contact me:_
 
