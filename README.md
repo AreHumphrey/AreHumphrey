@@ -1,5 +1,5 @@
 
-# _Vinnitckaya Dina, 20 years old, 3rd year student of MCS FEFU, Vladivostok, Russia._
+# _Vinnitckaya Dina, 21 years old, 4th year student of MCS FEFU, Vladivostok, Russia._
 # [_My Portfolio_](https://arehumphrey.github.io/My_portfolio)
 
 
